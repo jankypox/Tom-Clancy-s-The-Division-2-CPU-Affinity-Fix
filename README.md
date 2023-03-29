@@ -11,7 +11,7 @@ This simple Powershell script is designed to be a 'one-click solution' to automa
 1. Downlaod the file. Or copy the raw code into a new document in Notepad. Wordpad, or text editor of your choice, and save it with the file extension of '.ps1'
 2. In a text editor of your choice, edit the file to point to path where your Tom Clancy's The Division 2 game folder is located and save the file.
 3. Copy the file somewhere convenient, like your game directory.
-4. To work properly, the file has to be Run as Administrator which, being a powershell script, requires a couple of extra steps to set up properly.
+4. To work properly, the file has to be Run as Administrator. Being a powershell script, this requires a couple of extra steps to set up properly.
 5. Create a Shortcut of the script file and go to the Properties of the new Shortcut you've created.
 6. In the 'Target' section add 'powershell -f' (without the quotation marks) before the full path of the orignal file.
 7. Click on Advanced and now tick 'Run as Administrator' button. Then click 'Apply' followed by 'OK'.
